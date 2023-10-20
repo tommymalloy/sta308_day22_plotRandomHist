@@ -1,1 +1,3 @@
-# sta308_day22_plotRandomHist
+# Plot Random Histogram
+
+An R script that generates some random normal data, plots it, and also outputs the mean
